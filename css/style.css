@@ -1,0 +1,141 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.header {
+	background: rgb(255, 158, 0);
+}
+.nav__list {
+    display: flex;
+    list-style: none;
+}
+
+.nav__item {
+    margin-right: 30px;
+    color: rgb(0, 0, 0);
+}
+
+
+.hero-block__container {
+	
+padding: 60px 0;
+
+}
+
+.hero-block__content {
+
+text-align: center;
+}
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.logo {
+	80px;
+}
+.header__container {
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0;
+}
+.hero-block {
+	background: url('../img/poster.png') no-repeat center;
+	height: 500px;
+}
+.hero-block__title {
+color: rgb(255, 0, 0);
+
+}
+button {
+	background: rgb(255, 174, 0);
+	width: 219px; height: 52px;
+	border-radius: 23px;
+
+left: 504px;
+
+right: -280px;
+
+top: 454px;
+
+bottom: -163px;
+}
+a {
+	color: rgb(0, 0, 0);
+
+font-family: Inter;
+
+font-size: 18px;
+
+font-weight: 400;
+
+line-height: 22px;
+
+letter-spacing: 0px;
+
+text-align: left;
+}
+.video {
+	background: url('../img/video.png') no-repeat center;
+	height: 600 px;
+}
+.video__title {
+	color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+margin-bottom: 20px;
+}
+.video__container {
+	padding: 60px 0;
+	text-align: center;
+}
+.video__video {
+	width: 100%;
+	height: 538px;
+	border: 53px solid rgb(65, 65, 65);
+	box-sizing: border-box;
+	border-radius: 23px;
+}
+.footer {
+	background: url('../img/footer.png') no-repeat center;
+	width: 100%;
+}
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 55px 0;
+}
+.footer__title {
+	color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+}
+.foter__text {
+	color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0px;
+text-align: left;
+}
+.footer__img {
+
+}
+.footer__list {
+	display: flex;
+	list-style: none;
+}
+.footer__item {
+	margin-right: 15px;
+}
